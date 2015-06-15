@@ -1,0 +1,26 @@
+div{
+    width:200px;
+}
+h1{   
+    text-align:center;
+}
+#texting{
+  width:200px;
+}
+.deleteButton{    
+    float:right;
+}
+#checkAll,#deleteChecked{
+    width:25px;
+    height:25px;
+    margin-left:0;
+}
+
+.description{
+    float:right;
+}
+li{
+    height:30px;   
+    list-style:none;
+    margin-left:-20px;
+}
